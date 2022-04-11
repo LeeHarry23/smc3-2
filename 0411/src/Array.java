@@ -20,3 +20,4 @@ public class Array{
       System.out.println("가장 큰 수는"+j+"반쨰 숫자인"+max);
 	}
 }
+ 
