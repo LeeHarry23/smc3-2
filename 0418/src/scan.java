@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class scan {
 
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);   
 		System.out.println("1000 이하의 자연수를 입력하세요.");
@@ -16,7 +17,10 @@ public class scan {
 			i++;
 		}
 	 	System.out.println("1~"+num1+"까지 4의 배수의 합은"+sum+"입니다.");
-			
+			 
+	 	
+	 
+	 	
 	}
 
 }
