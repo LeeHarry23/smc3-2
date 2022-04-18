@@ -8,10 +8,7 @@ public class some {
 		
         int a,b =0;		
 	   int sum=0;
-	  
-	   
-	   
-	   
+	 
         System.out.println("시작 숫자: ");
 	    a =sc.nextInt();
 	    System.out.println("마지막 숫자: ");
