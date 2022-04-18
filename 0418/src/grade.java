@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
+
 public class grade {
 
+	
+	
 	public static void main(String[] args) {
          Scanner scan = new Scanner(System.in);
          System.out.println("수학,과학,영어 순으로 3갸의 점수 입력>>");
@@ -11,6 +14,7 @@ public class grade {
          me.math = scan.nextInt();
          System.out.println("평균은"+me.avaerage());
 		
+         
 	}
 	}
 class Grade{
