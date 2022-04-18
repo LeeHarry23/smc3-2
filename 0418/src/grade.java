@@ -9,11 +9,15 @@ public class grade {
          me.math = scan.nextInt();
          me.math = scan.nextInt();
          me.math = scan.nextInt();
-         System.out.println("∆Ú±’¿∫"+me.average());
+         System.out.println("∆Ú±’¿∫"+me.avaerage());
 		
+	}
 	}
 class Grade{
 		int math;
 		int science;
 		int english; 
+		public int avaerage () {
+			return(math+science+english)/3;
+		}
 }
