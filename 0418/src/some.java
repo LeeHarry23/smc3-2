@@ -19,4 +19,5 @@ public class some {
 	    System.out.println(a+"부터"+b+"까지의 합은"+sum);
 	}
 
+
 }
